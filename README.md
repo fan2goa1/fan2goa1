@@ -3,7 +3,7 @@
 
 ## 🔭 I'm currently working on
 
-- An intership
+- An intership in terms of L2 Trace Process.
 - Materials for applying graduate projects
 
 ## 🌱 I'm currently learning

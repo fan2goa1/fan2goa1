@@ -4,8 +4,8 @@
 ## 🔭 I'm currently working on
 
 - An internship in terms of L2 Trace Process.
-- A paper specific in Graph Algorithms.
-- Materials for applying graduate projects
+- Materials for applying graduate projects.
+- Collect and sort the learning materials through 3 years.
 
 ## 🌱 I'm currently learning
 

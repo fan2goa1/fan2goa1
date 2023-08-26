@@ -1,5 +1,5 @@
 ## 👋 Hi there
-  This is Zifan ZHENG from BIT(Beijing Institute of Technology). I'm currently a senior student majoring in Computer Science, and planning to study abroad in the future.
+  This is sadgde from BIT(Beijing Institute of Technology). I'm currently a senior student majoring in Computer Science, and planning to study abroad in the future.
 
 ## 🔭 I'm currently working on
 

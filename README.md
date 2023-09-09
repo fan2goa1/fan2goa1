@@ -3,7 +3,6 @@
 
 ## 🔭 I'm currently working on
 
-- A project about implementation of CPU.
 - An internship in terms of L2 Trace Process.
 - Materials for applying graduate projects.
 - Collect and sort the learning materials through these 3 years.

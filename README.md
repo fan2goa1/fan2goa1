@@ -3,7 +3,7 @@
 
 ## 🔭 I'm currently working on
 
-- An internship in terms of L2 Trace Process.
+- GRE test.
 - Materials for applying graduate projects.
 - Collect and sort the learning materials through these 3 years.
 

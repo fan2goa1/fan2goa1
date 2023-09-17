@@ -4,7 +4,7 @@
 ## 🔭 I'm currently working on
 
 - GRE test.
-- Materials for applying graduate projects.
+- Finding a job/intern.
 - Collect and sort the learning materials through these 3 years.
 
 ## 🌱 I'm currently learning

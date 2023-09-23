@@ -3,8 +3,8 @@
 
 ## 🔭 I'm currently working on
 
-- GRE test.
-- Finding a job/intern.
+- IELTS English Test.
+- (Soon) A Algorithm intern in Meituan.
 - Collect and sort the learning materials through these 3 years.
 
 ## 🌱 I'm currently learning

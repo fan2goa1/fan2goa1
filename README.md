@@ -4,7 +4,7 @@
 ## 🔭 I'm currently working on
 
 - IELTS English Test.
-- (Soon) An Algorithm intern in Meituan.
+- An Algorithm intern in Meituan.
 - Collect and sort the learning materials through these 3 years.
 
 ## 🌱 I'm currently learning

@@ -24,8 +24,3 @@
 [![fan2goa1's github stats](https://github-readme-stats.vercel.app/api?username=fan2goa1)](https://github.com/fan2goa1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fan2goa1&layout=compact)](https://github.com/fan2goa1)
-
-## 🤝 Connect with me
-
-<a href="stevenzzf0926@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Zifan | Gmail"/></a>
-<a href="https://github.com/fan2goa1/"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Zifan | Github"/></a>

@@ -1,6 +1,6 @@
 ## 👋 Hi there
-  This is fan2goa1 from BIT(Beijing Institute of Technology). I'm currently a senior student majoring in Computer Science, and planning to study abroad in the future.
-
+  This is fan2goa1 from Beijing. I'm currently a senior undergraduate.
+  
 ## 🔭 I'm currently working on
 
 - An Algorithm internship in Meituan.
@@ -9,7 +9,8 @@
 ## 🌱 I'm currently learning
 
 - Courses on ML
-- Courses on Big Data Engineering
+- Courses on LLM
+- ...
 
 ## 💼 Skills & Experiences
 

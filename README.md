@@ -1,9 +1,8 @@
 ## 👋 Hi there
-  This is sadgde from BIT(Beijing Institute of Technology). I'm currently a senior student majoring in Computer Science, and planning to study abroad in the future.
+  This is fan2goa1 from BIT(Beijing Institute of Technology). I'm currently a senior student majoring in Computer Science, and planning to study abroad in the future.
 
 ## 🔭 I'm currently working on
 
-- IELTS English Test.
 - An Algorithm internship in Meituan.
 - Collect and sort the learning materials through these 3 years.
 

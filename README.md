@@ -1,5 +1,7 @@
 ## 👋 Hi there
   This is fan2goa1 from Beijing. I'm currently a senior undergraduate.
+
+  Here's my [personal blog](https://fan2goa1.github.io/mkdocs-material/).
   
 ## 🔭 I'm currently working on
 

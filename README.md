@@ -1,18 +1,12 @@
 ## 👋 Hi there
-  This is fan2goa1 from Beijing. I'm currently a senior undergraduate.
+  This is fan2goa1 from China. I'm currently a senior undergraduate in Beijing.
 
   Here's my [personal blog](https://fan2goa1.github.io/mkdocs-material/).
   
 ## 🔭 I'm currently working on
 
 - An Algorithm internship in Meituan.
-- Undergraduate final project.
-
-## 🌱 I'm currently learning
-
-- LLM
-- Database
-- ...
+- Undergraduate final thesis.
 
 ## 💼 Skills & Experiences
 

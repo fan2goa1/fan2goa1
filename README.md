@@ -5,7 +5,6 @@
   
 ## 🔭 I'm currently working on
 
-- An Algorithm internship in Meituan.
 - Undergraduate final thesis.
 
 ## 💼 Skills & Experiences

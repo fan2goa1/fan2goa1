@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=fan2goa1&color=ff69b4&style=flat-square&abbreviated=true">
+
 ## 👋 Hi there
   This is fan2goa1 from China. I'm currently a senior undergraduate in Beijing.
 

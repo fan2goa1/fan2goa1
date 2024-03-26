@@ -19,6 +19,9 @@
 
 ## 📈 GitHub Stats 
 
-[![fan2goa1's github stats](https://github-readme-stats.vercel.app/api?username=fan2goa1)](https://github.com/fan2goa1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fan2goa1" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan2goa1&layout=compact" height="170px" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fan2goa1&layout=compact)](https://github.com/fan2goa1)
+

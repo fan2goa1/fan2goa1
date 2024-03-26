@@ -20,8 +20,8 @@
 ## 📈 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fan2goa1" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan2goa1&layout=compact" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fan2goa1" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan2goa1&layout=compact" width="41.1%" />
 </p>
 
 

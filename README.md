@@ -7,7 +7,7 @@
   
 ## 🔭 I'm currently working on
 
-- Undergraduate final thesis.
+- Having a rest😴.
 
 ## 💼 Skills & Experiences
 

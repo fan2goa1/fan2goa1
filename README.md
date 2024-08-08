@@ -7,7 +7,7 @@
   
 ## 🔭 I'm currently working on
 
-- Having a rest😴.
+- Learning [Rust](https://opencamp.cn/InfiniTensor/camp/2024summer).
 
 ## 💼 Skills & Experiences
 

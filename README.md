@@ -7,8 +7,6 @@
   
 ## 🔭 I'm currently working on
 
-- Learning [Rust](https://opencamp.cn/InfiniTensor/camp/2024summer).
-
 ## 💼 Skills & Experiences
 
 - ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)

@@ -1,11 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=fan2goa1&color=ff69b4&style=flat-square&abbreviated=true">
 
 ## 👋 Hi there
-  Hi, this is fan2goa1. I'm about to become a MSc student in Sydney in 2025 s1.
+  Hi, this is fan2goa1. I'm about to become a MSc student in USyd in 2025 s1.
 
   Here's my [personal blog](https://fan2goa1.github.io/mkdocs-material/).
-  
-## 🔭 I'm currently working on
+
 
 ## 💼 Skills & Experiences
 
